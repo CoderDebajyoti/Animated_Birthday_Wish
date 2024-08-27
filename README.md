@@ -9,6 +9,10 @@ Welcome to the Animated Birthday Wish  project! This project allows you to creat
  **Responsive Design:** Compatible with all devices, ensuring a great look on mobile and desktop.
 **Easy Customization:** Built with HTML, CSS, and JavaScript for easy modifications.
 
+##You can try using:
+```
+https://codepen.io/CoderDebajyoti/pen/QWXxxgG
+```
 ## Technologies Used
 
 - **HTML5**
