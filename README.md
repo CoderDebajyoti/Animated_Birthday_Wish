@@ -48,7 +48,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact anannyakamar08@gmail.com 
+For any questions or suggestions, please contact anannyakamar08@gmail.com & debajyoti.475@gmail.com 
 ---
-
-Replace placeholders like `yourusername`, `your.email@example.com`, and any other project-specific details with your own information.
