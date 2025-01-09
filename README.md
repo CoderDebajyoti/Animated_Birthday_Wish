@@ -1,13 +1,13 @@
 # Animated_Birthday_Wish
 
-Welcome to the Animated Birthday Wish  project! This project allows you to create a personalized digital birthday with vibrant balloon animations. Customize it with your name  for a unique birthday greeting.
+Welcome to the Animated Birthday Wish project! This project allows you to create a personalized digital birthday wish with vibrant balloon animations. Customize it with your name for a unique birthday greeting.
 
 ## Features
 
- **Balloon Animation:** Enjoy smooth and colorful balloon animations.
- **Personalization:** Input your name and upload a photo to create a custom birthday card.
- **Responsive Design:** Compatible with all devices, ensuring a great look on mobile and desktop.
-**Easy Customization:** Built with HTML, CSS, and JavaScript for easy modifications.
+- **Balloon Animation:** Enjoy smooth and colorful balloon animations.
+- **Personalization:** Input your name and upload a photo to create a custom birthday card.
+- **Responsive Design:** Compatible with all devices, ensuring a great look on mobile and desktop.
+- **Easy Customization:** Built with HTML, CSS, and JavaScript for easy modifications.
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ Welcome to the Animated Birthday Wish  project! This project allows you to creat
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/animated-birthday-wish.git
+   git clone https://github.com/CoderDebajyoti/animated-birthday-wish.git
    ```
 2. **Navigate to the Project Directory**
    ```bash
@@ -48,5 +48,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact anannyakamar08@gmail.com & debajyoti.475@gmail.com 
+For any questions or suggestions, please contact anannyakamar08@gmail.com & debajyoti.475@gmail.com
+
 ---
+
+Thank you for using the Animated Birthday Wish project! May your birthday be filled with joy and love!
