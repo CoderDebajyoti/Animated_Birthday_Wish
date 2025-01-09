@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY',],
+			strings: [ 'HAPPY', 'BIRTHDAY', 'TO YOU'], // Added 'TO YOU'
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
@@ -47,7 +47,7 @@ var w = c.width = window.innerWidth,
 			balloonAddedRadian: -1,
 		},
 		calc = {
-			totalWidth: opts.charSpacing * Math.max( opts.strings[0].length, opts.strings[1].length )
+			totalWidth: opts.charSpacing * Math.max( opts.strings[0].length, opts.strings[1].length, opts.strings[2].length ) // Updated calculation
 		},
 		
 		Tau = Math.PI * 2,
