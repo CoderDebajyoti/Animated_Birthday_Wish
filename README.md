@@ -53,3 +53,5 @@ For any questions or suggestions, please contact `anannyakamar08@gmail.com` & `d
 ---
 
 Thank you for using the Animated Birthday Wish project! May your birthday be filled with joy and love!
+
+---
